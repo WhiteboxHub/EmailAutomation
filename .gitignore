@@ -1,0 +1,4 @@
+/node_modules
+.env
+succes_reply_log.csv
+unseen_emails.csv
